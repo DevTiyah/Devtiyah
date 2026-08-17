@@ -21,7 +21,6 @@ You'll find:
 * AI experiments
 * Research implementations
 * Technical notes
-* Small experiments and prototypes
 * I also love to tinker with Frontend engineering too as this is my initial skillset
 
 Some projects will be polished. Others will simply be experiments or learning exercises.
@@ -33,7 +32,6 @@ I'm keeping the process visible as I grow.
 * Build stronger backend fundamentals
 * Implement my first AI research paper
 * Start experimenting with my own research ideas
-* Publish my first research paper
 * Build software around problems that matter
 
 ### Learn → Build → Experiment → Document
