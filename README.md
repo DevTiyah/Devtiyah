@@ -7,7 +7,7 @@ I'm currently expanding my skills into **backend engineering and artificial inte
 ## Currently Learning
 
 * 💻 Backend engineering with Node.js, Express & databases
-* 🤖 Artificial Intelligence & the basics of Machine Learning
+* 🤖 Artificial Intelligence
 * 🔬 Reading and implementing AI research
 * 🏗️ Software architecture and systems
 
