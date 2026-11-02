@@ -2,7 +2,7 @@
 
 I like solving problems and understanding how things work under the hood.
 
-I'm currently expanding my skills into **backend engineering and artificial intelligence.
+I'm currently expanding my skills into Backend engineering and artificial intelligence.
 
 ## Currently Learning
 
