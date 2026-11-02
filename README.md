@@ -1,12 +1,12 @@
 # Hi, I'm Fatiha 👋
 
-I'm a software engineer interested in **building useful software, solving problems and understanding how things work under the hood**.
+I like solving problems and understanding how things work under the hood.
 
-I'm currently expanding my skills into **backend engineering and artificial intelligence**, while beginning my journey into AI research.
+I'm currently expanding my skills into **backend engineering and artificial intelligence.
 
 ## Currently Learning
 
-* 💻 Backend engineering with Node.js, Express & databases
+* 💻 Backend engineering with Go
 * 🤖 Artificial Intelligence
 * 🔬 Reading and implementing AI research
 * 🏗️ Software architecture and systems
